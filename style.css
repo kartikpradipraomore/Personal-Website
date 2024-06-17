@@ -40,6 +40,7 @@ nav{
     font-size: 40px;
     transition: all 0.5s;
 }
+
 #k{
     color:#ff004f;
     font-size: 45px;
@@ -48,6 +49,7 @@ nav{
     text-decoration: none;
     color: #fff;
 }
+
 .logo:hover{
     transform: rotateY(50deg) ;
 }
